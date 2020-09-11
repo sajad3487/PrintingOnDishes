@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="159e19cf-44f2-4448-a743-6b9c8740170a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="c1eba3f8-857d-4150-a922-51cc684b6952" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/HomeController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/HomeController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -143,6 +143,9 @@
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\Robert" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\xampp\htdocs\Project\resources\views\layouts\admin" />
     </key>
@@ -194,6 +197,10 @@
       <screen x="1920" y="0" width="1366" height="728" />
     </state>
     <state x="2437" y="288" key="NewPhpFileDialog/0.0.1536.824/1920.0.1366.728@1920.0.1366.728" timestamp="1599826376495" />
+    <state x="2299" y="96" width="607" height="536" key="find.popup" timestamp="1599829684176">
+      <screen x="1920" y="0" width="1366" height="728" />
+    </state>
+    <state x="2299" y="96" width="607" height="536" key="find.popup/0.0.1536.824/1920.0.1366.728@1920.0.1366.728" timestamp="1599829684176" />
     <state x="2259" y="17" width="670" height="676" key="search.everywhere.popup" timestamp="1599825326317">
       <screen x="1920" y="0" width="1366" height="728" />
     </state>
